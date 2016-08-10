@@ -7,17 +7,21 @@ Show adcolony full screen ad and rewarded video ad
 
 Requires adcolony account http://www.adcolony.com/
 
-AdColony Android SDK Version: 2.2.1 (Modified: 2014/2/10)
-AdColony iOS SDK Version: 2.5.3 (Modified: 2015/07/22)
+AdColony Android SDK Version: 2.3.6 (Modified: 2016/6/22)
+AdColony iOS SDK Version:  2.6.2 (Modified: 2016/06/23)
 
 This is open source cordova plugin.
 
 You can see Cordova Plugins in one page: http://cranberrygame.github.io?referrer=github
 
 # Change log #
+	2016.8.10
+	updated AdColony Android SDK Version: 2.3.6
+	updated AdColony iOS SDK Version: 2.6.2
+
 	2016.1.22
 	updated AdColony iOS SDK Version: 2.5.3
-```c
+```
 ```
 # Install plugin #
 

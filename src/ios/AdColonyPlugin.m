@@ -156,7 +156,7 @@ static NSString *TEST_REWARDED_VIDEO_AD_ZONE_ID = @"vzac89782a8e01437fbf";
 	];
 }
 
--(void) _showinterstitialAd {
+-(void) _showInterstitialAd {
 
     if (![AdColony videoAdCurrentlyRunning]) {
 		//+ ( void ) playVideoAdForZone:( NSString * )zoneID withDelegate:( id<AdColonyAdDelegate> )del;

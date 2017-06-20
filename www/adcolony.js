@@ -1,5 +1,3 @@
-cordova.define("cordova-plugin-ad-adcolony.adcolony", function(require, exports, module) {
-
 module.exports = {
 	_loadedInterstitialAd: false,
 	_loadedRewardedVideoAd: false,
@@ -161,5 +159,3 @@ module.exports = {
 	onRewardedVideoAdHidden: null,
 	onRewardedVideoAdCompleted: null
 };
-
-});
